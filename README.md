@@ -1,7 +1,7 @@
 Role Name
 =========
 
-Install and config yum-cron for CentOS 7 as a Ansible-role.
+Install and config yum-cron for CentOS 7 as an Ansible-role.
 
 Requirements
 ------------
